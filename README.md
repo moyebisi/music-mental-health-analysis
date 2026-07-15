@@ -1,6 +1,6 @@
 ---
 
-## Project 2: Music & Mental Health Dashboard
+## Project : Music & Mental Health Dashboard
 
 ![Music and Mental Health Dashboard](https://raw.githubusercontent.com/moyebisi/mental-health-analysis/main/music-mental-health-dashboard.png)
 
